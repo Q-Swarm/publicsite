@@ -22,7 +22,7 @@ body {
     color: hsl(53, 98%, 37%);
 }
 
-.text a {
+a {
     color: hsl(0, 0%, 100%);
 }
 
