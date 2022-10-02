@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    background-image: url("../images/01_art-sebajpg.jpeg"), url("../images/02_art-sebajpg.jpg"), url("../images/03_art-sebajpg.jpg");
+    background-size: 20%;
+    background-repeat: repeat;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.75rem;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    background-color: hsla(0, 0%, 0%, 0.75);
+    padding: 1rem 5rem;
+    margin-top: 1rem;
+    position: fixed;
+}
+
+.text h1 {
+    font-weight: bolder;
+    font-size: 4rem;
+    color: hsl(53, 98%, 37%);
+}
+
+footer {
+    background-color: hsl(0, 0%, 0%);
+    color: hsla(53, 98%, 37%, 0);
+    margin-top: 500rem;
+    margin-left: 500rem;
+}
